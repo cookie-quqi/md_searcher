@@ -10,6 +10,7 @@
 
 ## 系统要求
 - Java 8或更高版本
+- java环境
 - Windows操作系统
 - Typora或其他支持标准键盘快捷键的文本编辑器
 
@@ -23,7 +24,7 @@
 ## 配置选项
 配置文件位于`config.json`，可手动修改文件路径
 
-#可自行修改程序
+# 可自行修改程序
 
 ## 许可证
 [MIT](https://opensource.org/licenses/MIT)
