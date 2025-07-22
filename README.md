@@ -15,7 +15,7 @@
 - Typora或其他支持标准键盘快捷键的文本编辑器
 
 ## 安装方法
-直接下载exe点击即可使用
+直接下载exe点击即可使用 [下载地址]([Releases · cookie-quqi/md_searcher](https://github.com/cookie-quqi/md_searcher/releases))
 
 ## 使用说明
 1. 在搜索框中输入要查找的文本，点击搜索或按下回车键搜索文本
